@@ -17,7 +17,9 @@ Typhoid fever remains a public health concern in SE Asia, with rising antimicrob
 
 
 ## Progress
-- **Phase 1 (in progress):** Built command-line and Unix foundations through JHU's Command Line Tools for Genomic Data Science (Coursera), including file manipulation, sorting/filtering, and basic sequence file handling. Practical exercises completed in a CentOS VM environment.
+- **Phase 1 (in progress):**
+04/08/2026
+- Built command-line and Unix foundations through JHU's Command Line Tools for Genomic Data Science (Coursera), including file manipulation, sorting/filtering, and basic sequence file handling. Practical exercises completed in a CentOS VM environment.
 
   Next up: python for genomic& Galaxy Training Networks GS quality-control and variant-calling tutorials...
   
